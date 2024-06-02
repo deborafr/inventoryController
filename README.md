@@ -13,6 +13,8 @@ Battle – extracts the Model class. Implements a DTO  of type Battle
 
 Charger – extracts the Model class. Implements a DTO  of type Charger.
 
+All the functions described below refer to the corresponding function in the second layer - the productService class, and it refers to the corresponding function in the third layer that handles the DB - the productsDB class.
+
 Rest API:
 
 1.	Get all products
