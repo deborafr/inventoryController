@@ -1,4 +1,5 @@
 Inventory controller
+
 Description: The system includes 3 main classes that controls the inventory inside the vending machine.
 1.	productController – implements the REST controller.
 2.	productssService - implements the back end service with the business logic.
