@@ -5,7 +5,7 @@ Description: The system includes 3 main classes that controls the inventory insi
 2.	productssService - implements the back end service with the business logic.
 3.	productsDB - The data base layer (assume you have a connection to the DB).
    
-And the classes:	
+And the additional classes:	
 
 Model – implements Data transform object.
 
